@@ -70,6 +70,7 @@ If you encounter issues, check `troubleshooting.md` or submit an issue on GitHub
 
 Vedant Gosavi - vedantgosavi20@gmail.com
 Aditya Mhambrey
+Charles Green - charlesgreenreal@gmail.com
 
 ## Acknowledgments
 
