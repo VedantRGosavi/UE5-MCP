@@ -68,7 +68,8 @@ If you encounter issues, check `troubleshooting.md` or submit an issue on GitHub
 
 ## Contact
 
-[Your contact information here]
+Vedant Gosavi - vedantgosavi20@gmail.com
+Aditya Mhambrey
 
 ## Acknowledgments
 
