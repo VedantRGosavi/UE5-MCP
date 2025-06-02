@@ -1,5 +1,5 @@
 # UE5-MCP (Model Control Protocol)
-
+UPDATE: unfortunately we didnt move forward with the project due to time constraints. Feel free to use the docs.
 ## Overview
 
 UE5-MCP (Model Control Protocol) is designed to integrate AI-driven automation into Blender and Unreal Engine 5 (UE5) workflows. This project builds upon [BlenderMCP](https://github.com/ahujasid/blender-mcp) to provide an end-to-end pipeline for AI-driven game level creation, enhancing level design, asset management, and gameplay programming.
@@ -68,9 +68,9 @@ If you encounter issues, check `troubleshooting.md` or submit an issue on GitHub
 
 ## Contact
 
-Vedant Gosavi - vedantgosavi20@gmail.com
+Vedant Gosavi
 Aditya Mhambrey
-Charles Green - charlesgreenreal@gmail.com
+Charles Green 
 
 ## Acknowledgments
 
